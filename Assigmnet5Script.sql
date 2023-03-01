@@ -1,7 +1,4 @@
-# Maria Waleska Marinho de Oliveira 
-# mmarinhodeolive1749@conestogac.on.ca
-# Student Number: 8751749
-# Assigment5 
+
 
 #Q1. MGS Exercise 8-1 [5 points]
 
